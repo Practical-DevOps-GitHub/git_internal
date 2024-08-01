@@ -1,7 +1,5 @@
 ﻿hello students 
 wwww
 wwwwgit
-line 3
-line4
 li555
 line666
